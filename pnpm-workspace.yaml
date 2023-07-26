@@ -1,3 +1,4 @@
 name: uli-comp-workspace
 packages:
     - 'packages/**'
+    - "test"
