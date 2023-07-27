@@ -11,6 +11,10 @@
   "license": "ISC",
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
+    "@vue-macros/volar": "^0.12.3",
     "vite": "^4.4.7"
+  },
+  "dependencies": {
+    "@uli-comp/components": "workspace:^"
   }
 }
