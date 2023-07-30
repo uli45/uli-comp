@@ -1,0 +1,29 @@
+{
+  "name": "uli-comp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "es/index.mjs",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "uli-comp",
+    "vue3组件库",
+    "组件库"
+  ],
+  "sideEffects": [
+    "**/*.css"
+  ],
+  "author": "uli",
+  "license": "MIT",
+  "typings": "lib/index.d.ts",
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uli45/uli-comp.git"
+  }
+}
