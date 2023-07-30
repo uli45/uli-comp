@@ -24,6 +24,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uli45/uli-comp.git"
+    "url": "git://github.com/uli45/uli-comp.git"
   }
 }
